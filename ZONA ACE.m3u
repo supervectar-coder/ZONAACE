@@ -9,6 +9,10 @@
 "image": "https://i.ibb.co/HT5Jhcfw/info.jpg",
 "url": "https://play.google.com/store/apps/details?id=org.acestream.node&hl=es"},
 
+{"name": "LISTA ACESTREAM (VPN 1.1.1.1 WARP)",
+"image": "https://i.ibb.co/pjM4jq7C/acestream.png",
+"url": "http://127.0.0.1:6878/pl.m3u"},
+
 {"name": "DEPORTES ELCANO ACESTREAM (VPN 1.1.1.1 WARP)",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.inbrowser.link/hashes_acestream.m3u"},
@@ -44,4 +48,3 @@
 {"name": "PELICULAS ACESTREAM (VPN 1.1.1.1 WARP)",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://www.dl.dropboxusercontent.com/scl/fi/xvjdm3uhsznnecpst5fsx/bibliotecapelis.m3u?rlkey=xm15l974lhfrf4qwj6mv1zbk5&st=5hpmq0ei"}]}
-
