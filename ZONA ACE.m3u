@@ -5,7 +5,7 @@
 "telegram": "",
 "groups": [
 
-{"name": "NECESITA ACESTREAM INSTALADO",
+{"name": "NECESITA ACESTREAM INSTALADO Y VPN 1.1.1.1 WARP (CONECTADO)",
 "image": "https://i.ibb.co/HT5Jhcfw/info.jpg",
 "url": "https://www.google.com/"},
 
@@ -13,7 +13,11 @@
 "image": "https://i.ibb.co/Fkd3PrNv/descargalo.png",
 "url": "https://play.google.com/store/apps/details?id=org.acestream.node&hl=es"},
 
-{"name": "DONDE VER LA LIGA (WEB)",
+{"name": "DESCARGAR VPN 1.1.1.1 WARP AQUI",
+"image": "https://i.ibb.co/Fkd3PrNv/descargalo.png",
+"url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone"},
+
+{"name": "DONDE VER LA LIGA? (WEB)",
 "image": "https://i.ibb.co/G4dRTBP5/ligabn.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaGUIA/refs/heads/main/LISTAGUIAPROGRAMACION.m3u"},
 
