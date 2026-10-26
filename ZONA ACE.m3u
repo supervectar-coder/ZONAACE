@@ -5,7 +5,7 @@
 "telegram": "",
 "groups": [
 
-{"name": "NECESITA ACESTREAM (INSTALADO) Y VPN 1.1.1.1 WARP (CONECTADO)",
+{"name": "NECESITA ACESTREAM (INSTALADO) Y QUIZA VPN 1.1.1.1 WARP (CONECTADO)",
 "image": "https://i.ibb.co/HT5Jhcfw/info.jpg",
 "url": "https://www.google.com/"},
 
@@ -17,27 +17,27 @@
 "image": "https://i.ibb.co/5g872cq7/DEP.jpg",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaGUIA/refs/heads/main/LISTAGUIAPROGRAMACION.m3u"},
 
-{"name": "DEPORTES SHICKAT ACESTREAM (VPN 1.1.1.1 WARP)",
+{"name": "DEPORTES SHICKAT ACESTREAM",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaaACEdeportes/refs/heads/main/lista%20SUPERVECTAR%20ACESTREAM%20DEPORTES.m3u"},
 
-{"name": "DEPORTES NEW LOOP ACESTREAM (VPN 1.1.1.1 WARP)",
+{"name": "DEPORTES NEW LOOP ACESTREAM",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaaACEdeportes2/refs/heads/main/CANALES%20ACE%20NEW%20LOOP.m3u"},
 
-{"name": "DEPORTES SPORT TV ACESTREAM (VPN 1.1.1.1 WARP)",
+{"name": "DEPORTES SPORT TV ACESTREAM",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaaACEdeportes3/refs/heads/main/CANALES%20ACE%20SPORT%20TV.m3u"},
 
-{"name": "DEPORTES JP ACESTREAM (VPN 1.1.1.1 WARP)",
+{"name": "DEPORTES JP ACESTREAM",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaaACEdeportes4/refs/heads/main/CANALES%20ACE%20JP.m3u"},
 
-{"name": "DEPORTES ELCANO2 ACESTREAM (VPN 1.1.1.1 WARP)",
+{"name": "DEPORTES ELCANO2 ACESTREAM (VPN 1.1.1.1 WARP ?)",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes_acestream.m3u"},
 
-{"name": "DEPORTES NEW ERA2 ACESTREAM (VPN 1.1.1.1 WARP)",
+{"name": "DEPORTES NEW ERA2 ACESTREAM (VPN 1.1.1.1 WARP ?)",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://tokyo.elcano-ipfs.workers.dev/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_fuera_iptv.m3u"},
 
@@ -49,10 +49,10 @@
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link/data/listas/lista_fuera_iptv.m3u"},
 
-{"name": "TV ACESTREAM (VPN 1.1.1.1 WARP)",
+{"name": "TV ACESTREAM",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaaACEtv/refs/heads/main/lista%20SUPERVECTAR%20ACESTREAM%20TV.m3u"},
 
-{"name": "PELICULAS ACESTREAM (VPN 1.1.1.1 WARP)",
+{"name": "PELICULAS ACESTREAM",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://www.dl.dropboxusercontent.com/scl/fi/xvjdm3uhsznnecpst5fsx/bibliotecapelis.m3u?rlkey=xm15l974lhfrf4qwj6mv1zbk5&st=5hpmq0ei"}]}
